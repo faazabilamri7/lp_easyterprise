@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1440"
+   height="724"
+   viewBox="0 0 1440 724"
+   fill="none"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="hero-bg.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.18368056"
+     inkscape:cx="-890.13232"
+     inkscape:cy="-775.8034"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <g
+     opacity="0.3"
+     filter="url(#filter0_f)"
+     id="g4">
+    <ellipse
+       cx="-180.528"
+       cy="188.597"
+       rx="239.472"
+       ry="248.432"
+       fill="#D5AEE4"
+       id="ellipse2" />
+  </g>
+  <path
+     d="M758.307 222C717.907 153.2 741.474 13.3333 758.307 -48L1437.81 -149L1502.31 122.5L1463.81 723.5C1385.14 724.5 1209.71 717 1137.31 679C1046.81 631.5 1087.81 555 1012.81 515C937.807 475 980.807 369.5 954.807 329.5C928.807 289.5 808.807 308 758.307 222Z"
+     fill="#FFF1DA"
+     id="path6"
+     style="fill:#ed1847;fill-opacity:1" />
+  <defs
+     id="defs15">
+    <filter
+       id="filter0_f"
+       x="-570"
+       y="-209.836"
+       width="778.945"
+       height="796.864"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood8" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend10" />
+      <feGaussianBlur
+         stdDeviation="75"
+         result="effect1_foregroundBlur"
+         id="feGaussianBlur12" />
+    </filter>
+  </defs>
+</svg>
